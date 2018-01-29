@@ -8,3 +8,7 @@ Contact c = new Contact();
 
 c.FirstName = 'John';
 c.LastName = 'Doe';
+
+c.AccountID = a.ID;
+
+insert c;
