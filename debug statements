@@ -1,0 +1,1 @@
+ID returnedID = ContactManager.addContact("smith','john')
