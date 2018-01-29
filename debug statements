@@ -1,1 +1,2 @@
-ID returnedID = ContactManager.addContact("smith','john')
+ID returnedID = ContactManager.addContact("smith','john');
+System.debug(returnedID);
