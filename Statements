@@ -1,0 +1,3 @@
+Account a = new Account();
+
+a.name = 'XYZ';
