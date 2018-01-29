@@ -16,7 +16,7 @@ public class CourseManager {
 		 *           and initialize it to a newly constructed Set of Course__c sObjects, passing in
 		 *           the oldCourseList (from the input parameter of the method) as a parameter.
 		 */
-     Set<Course__c> oldCourseSet = new Set<Course__c>(oldCourseSet);      
+     Set<Course__c> oldCourseSet = new Set<Course__c>(oldCourseSet);      // converting a List to Set
 		
 		/** TODO #3: Create a for loop with an iterator of type Course__c named newCourse that
 		 *           iterates over the List newCourseList (from the input parameter of the method).
