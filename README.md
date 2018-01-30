@@ -1,3 +1,3 @@
 # DEV450
 
-* Schdeuled Apex Batch jobs
+* Scheduled Apex Batch jobs
