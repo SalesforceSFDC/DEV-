@@ -6,6 +6,7 @@
 * Turn on log for the User
 * The heap size is 6million bytes
 * find Salesforce unmanaged packages
+* memorize slide 266
 
 ## Tasks
 * Research execution log
