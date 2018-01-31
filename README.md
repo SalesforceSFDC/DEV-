@@ -7,6 +7,7 @@
 * The heap size is 6million bytes
 * find Salesforce unmanaged packages
 * memorize slide 266
+* https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_triggers_order_of_execution.htm
 
 ## Tasks
 * Research execution log
