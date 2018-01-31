@@ -8,3 +8,6 @@
 
 ## Tasks
 * Research execution log
+
+## Triggers
+* when the trigger is fired we first get Trigger.new.  This is the data structure and and sObject
