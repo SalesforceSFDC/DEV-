@@ -8,6 +8,7 @@
 * find Salesforce unmanaged packages
 * memorize slide 266
 * [Trigger and Order of Execution](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_triggers_order_of_execution.htm)
+* (The Force.com Multitenant Architecture)[https://developer.salesforce.com/page/Multi_Tenant_Architecture]
 
 ## Tasks
 * Research execution log
