@@ -15,3 +15,4 @@
 
 ## Triggers
 * when `insert` happens = when the trigger is fired we first get Trigger.new.  This is the data structure and and sObject.  It is writable.
+* 
