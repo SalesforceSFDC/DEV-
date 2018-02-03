@@ -1,6 +1,7 @@
 # DEV450
 
 ## Notes
+* [Javascript](http://jstherightway.org/)
 * [Quizlet](https://quizlet.com/209177466/salesforce-platform-developer-i-flash-cards/)
 * Scheduled Apex Batch jobs
 * In order to get the log post mortem, you have to go back and replicate the error
