@@ -43,6 +43,16 @@ for (integer i=0; i<100; i++)
 { sum = new sum}
 system.debug('sum');
 ```
+### 
+* Owner - Full Access, R, W, Manual Share, Transfer Owner, Delete
+* OWD - private, read-only, read-write
+* Role hierarchy
+* Sharing rules
+* Manual sharing
+* Apex
+* Process builder
+###
+
 
 ## Tasks
 * Research execution log
