@@ -33,6 +33,12 @@ Integer i;
 Contact newContact = new Contact();
 ```
 
+* sObject is the heap (server side memory)
+* Apex is not case sensitive
+* Js and Lightning Components are case sensitive
+* Strings in Apex are in single quotes and in VFP they are in double quotes.
+* `Account newAccount = new Account();` - instantiating a new sObject named and type Account.
+
 ## Tasks
 * Research execution log
 * Object Oriented Programming
