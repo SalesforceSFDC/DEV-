@@ -53,6 +53,10 @@ system.debug('sum');
 * Process builder
 ##
 
+## MVC
+* View - field can be required only on the view
+* Control - 
+* Model - field required for the system
 
 ## Tasks
 * Research execution log
