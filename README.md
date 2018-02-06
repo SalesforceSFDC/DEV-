@@ -15,6 +15,8 @@
 
 * Most Apex code is executed implicitly
 * `ID returnedId = Contact`
+* `List<Account> accounts` - this is a null list
+* `List<Account> accounts = new List<Account>` - empty list
 
 ## Tasks
 * Research execution log
