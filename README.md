@@ -23,8 +23,15 @@
 * The indices have to be uniqu and the values do not.
 * List of sObjects of type Course_Delivery__c
 * `AccountId = account (foreign key)`
-* Certification__c - give me the foreign key
-* 
+* `Certification__c` - give me the foreign key
+* `Certification__r.name` - give me the name of the foreign key
+* FLS and Page Layout are required on Master-Detail and they are not required for Lookup Relationship.
+
+```Apex
+Integer i;
+// newContact = sObject, new Contact() - instantiating the variable
+Contact newContact = new Contact();
+```
 
 ## Tasks
 * Research execution log
