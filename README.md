@@ -12,8 +12,13 @@
 * [Trigger and Order of Execution](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_triggers_order_of_execution.htm)
 * [The Force.com Multitenant Architecture](https://developer.salesforce.com/page/Multi_Tenant_Architecture)
 
+
+* Most Apex code is executed implicitly
+* `ID returnedId = Contact`
+
 ## Tasks
 * Research execution log
+* Object Oriented Programming
 
 ## Triggers
 * when `insert` happens = when the trigger is fired we first get Trigger.new.  This is the data structure and and sObject.  It is writable.
