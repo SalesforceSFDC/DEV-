@@ -38,6 +38,11 @@ Contact newContact = new Contact();
 * Js and Lightning Components are case sensitive
 * Strings in Apex are in single quotes and in VFP they are in double quotes.
 * `Account newAccount = new Account();` - instantiating a new sObject named and type Account.
+```Apex
+for (integer i=0; i<100; i++)
+{ sum = new sum}
+system.debug('sum');
+```
 
 ## Tasks
 * Research execution log
