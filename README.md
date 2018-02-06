@@ -20,6 +20,10 @@
 * `accounts.add(new Account(name='Account1')):`
 * instantiating an sObject of type Account and giving it a name Account1 and then adding it to a new List<>
 * sObjects are memory and not database concepts
+* The indices have to be uniqu and the values do not.
+* List of sObjects of type Course_Delivery__c
+* `AccountId = account (foreign key)`
+* Certification__c - give me the foreign key
 * 
 
 ## Tasks
