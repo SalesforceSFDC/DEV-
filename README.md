@@ -17,6 +17,10 @@
 * `ID returnedId = Contact`
 * `List<Account> accounts` - this is a null list
 * `List<Account> accounts = new List<Account>` - empty list
+* `accounts.add(new Account(name='Account1')):`
+* instantiating an sObject of type Account and giving it a name Account1 and then adding it to a new List<>
+* sObjects are memory and not database concepts
+* 
 
 ## Tasks
 * Research execution log
