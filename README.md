@@ -79,6 +79,8 @@ for(Contact con : conList) {
 update listToUpdate;
 
 ```
+### Apex Database Methods
+* [Database Methods](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_methods_system_database.htm)
 ##
 * Owner - Full Access, R, W, Manual Share, Transfer Owner, Delete
 * OWD - private, read-only, read-write
