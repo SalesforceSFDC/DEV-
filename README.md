@@ -43,7 +43,12 @@ for (integer i=0; i<100; i++)
 { sum = new sum}
 system.debug('sum');
 ```
-##
+## DML
+* The `upsert` DML operation creates new records and updates sObject records within a single statement, using a specified field to determine the presence of existing objects, or the ID field if no field is specified.
+
+* The `merge` statement merges up to three records of the same sObject type into one of the records, deleting the others, and re-parenting any related records.
+
+
 * Owner - Full Access, R, W, Manual Share, Transfer Owner, Delete
 * OWD - private, read-only, read-write
 * Role hierarchy
